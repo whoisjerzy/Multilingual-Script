@@ -1,6 +1,6 @@
-# Multilingual Static Website Project
+# Multilingual Website Project
 
-Welcome to the Multilingual Static Website Project! This repository showcases the implementation of a multilingual static website using HTML, CSS, and JavaScript. The project focuses on providing a seamless language-switching experience for users, catering to a global audience.
+Welcome to the Multilingual Website Project! This repository showcases the implementation of a multilingual website using HTML, CSS, and JavaScript. The project focuses on providing a seamless language-switching experience for users, catering to a global audience.
 
 ## Project Structure
 
@@ -29,8 +29,3 @@ To view your website locally, open `index.html` using the "live server" extensio
 
 Contributions to the project are welcome! If you find a bug, have an enhancement idea, or want to add new features, feel free to submit a pull request.
 
-## Acknowledgments
-
-A big thank you to the open-source community for their invaluable resources and tutorials that contributed to the development of this project.
-
-Happy coding!
