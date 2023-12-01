@@ -15,7 +15,7 @@ The project is structured as follows:
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/nohaelgendy/en-ar-demo.git`
+1. Clone the repository: `git clone https://github.com/whoisjerzy/language-demo.git`
 2. Open the project in a code editor of your choice.
 3. Customize the HTML structure, styles, and content to match your website's theme.
 4. Update the JSON files in the `languages/` directory with your own translations.
