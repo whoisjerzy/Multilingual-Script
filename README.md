@@ -29,10 +29,6 @@ To view your website locally, open `index.html` using the "live server" extensio
 
 Contributions to the project are welcome! If you find a bug, have an enhancement idea, or want to add new features, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 A big thank you to the open-source community for their invaluable resources and tutorials that contributed to the development of this project.
